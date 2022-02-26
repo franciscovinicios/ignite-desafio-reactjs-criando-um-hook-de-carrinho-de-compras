@@ -1,5 +1,5 @@
 <div align="center">
-   <img  src="https://user-images.githubusercontent.com/78514869/155436253-962bf819-7af1-4cc0-8364-a8896d98ea04.png">
+   <img  src="https://user-images.githubusercontent.com/78514869/155856738-106e3ee8-ee21-472c-b3db-e6a440724564.svg">
 </div>
 
 <h3 align="center">
@@ -48,16 +48,21 @@ The following tools were used in the construction of the project:
 -   **Axios**
 -   **Styled Components**
 -   **MirageJs**
+-   **LocalStorage API**
+-   **React-toastify**
 
 ## Layout
 
 * **Home**
 <br/>
 
-![screencapture-localhost-8080-2022-02-23-21_52_36](https://user-images.githubusercontent.com/78514869/155437075-553c8af4-36d9-4a64-8825-b1f4ca497ae6.png)
+![dashboard](https://user-images.githubusercontent.com/78514869/155856737-0eb23186-967f-4875-bb41-f60283069062.png)
 
-**Shopping cart**
-![screencapture-localhost-8080-2022-02-23-21_52_36](https://user-images.githubusercontent.com/78514869/155437075-553c8af4-36d9-4a64-8825-b1f4ca497ae6.png)
+
+* **Shopping cart**
+<br/>
+
+![carrinho](https://user-images.githubusercontent.com/78514869/155856736-6bdf1534-d169-46af-9e3d-1cdb38946ee4.png)
 
 
 ## Getting Started
