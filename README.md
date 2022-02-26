@@ -81,8 +81,8 @@ The project can be built with npm or yarn, so choose one of the approach bellow 
 * To download the project follow the instructions bellow:
 
 ```
-1. git clone https://github.com/franciscovinicios/ignite-desafio-componentizando-a-aplicacao
-2. cd ignite-desafio-componentizando-a-aplicacao
+1. git clone https://github.com/franciscovinicios/ignite-desafio-reactjs-criando-um-hook-de-carrinho-de-compras.git
+2. cd ignite-desafio-reactjs-criando-um-hook-de-carrinho-de-compra
 ```
 
 * Install the dependencies and start the project:
