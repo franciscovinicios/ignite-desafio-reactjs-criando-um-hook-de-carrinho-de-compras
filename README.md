@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-    Application where your main objective is to refactor a page to list movies according to genre
+   Application where your main purpose is to create a hook.g shopping cart hook
 </h3>
 
 <h4 align="center"> 
